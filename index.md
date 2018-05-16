@@ -25,10 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![jjaltoon.gallery](http://jjaltoon.gallery/wp-content/uploads/2018/05/3-8.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+![jjaltoon.gallery](http://jjaltoon.gallery/wp-content/uploads/2018/05/3-8.png)
 
 ### Jekyll Themes
 
